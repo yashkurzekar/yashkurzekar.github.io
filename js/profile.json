@@ -391,20 +391,20 @@
     },
     {
       "sn": 13,
-      "projectTitle": "Smart Seminar Booking System for college",
-      "periodStart": "Feb 2017",
-      "periodEnd": "March 2017",
+      "projectTitle": "Secure Online Examination",
+      "periodStart": "Sept 2019",
+      "periodEnd": "Oct 2019",
       "toolsUsed": [
-        "c++",
-        "qt"
+        "J2EE",
+        "VS code"
       ],
       "tags": [
         "oop",
-        "c++",
-        "qt",
-        "files"
+        "Java",
+        "J2EE",
+        "HTML"
       ],
-      "shortInfo": "Simulation of college seminar seat allocation process. Choice filling and Seat Allocation are performed. Modified Gayle-Shapely Algorithm implemented. Can be scaled using C++ CGI for deployment. .",
+      "shortInfo": "multiple-choice questions and takes input from user as answer and evaluates all questions and gives back output as result",
       "link": ""
     },
     {
@@ -425,7 +425,27 @@
         "pandas"
       ],
       "shortInfo": "it's will suggest you an movies according to your privious watched data and uesd smiliarity comparision algorithms to suggest you list of movies which you love to watch",
-      "link": "https://github.com/moghya/external-exam-portal"
+      "link": ""
+    },
+    {
+      "sn": 10,
+      "projectTitle": "yashkurzekar.github.io",
+      "periodStart": "May 2020",
+      "periodEnd": "Present",
+      "toolsUsed": [
+        "VS code",
+        "Algorithms"
+      ],
+      "tags": [
+        "HTML",
+        "JavaScript",
+        "CSS",
+        "JSON",
+        "Animate.js",
+        "Type.js"
+      ],
+      "shortInfo": "Coder stysle portfolio website",
+      "link": "https://github.com/yashkurzekar/yashkurzekar.github.io"
     }
 
   ],
