@@ -200,10 +200,7 @@ swal({
 
 function loadMoghysSays() {
 	const moghyaSaysInnerHtml = `<div class="col m6">
-		<h6>Recipe for this website:</h6>	
-		<div class="row">
-			We are in Testing period, if you find any glich or bug / mistake feel freeto mail me or contact me. Thank you
-		</div>
+	<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="yash-kurzekar"><a class="LI-simple-link" href='https://in.linkedin.com/in/yash-kurzekar?trk=profile-badge'>Yash Kurzekar</a></div>
 	</div>
 	<div class="col m6">
 		<h6>Warm Gratitudes</h6>
