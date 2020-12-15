@@ -446,6 +446,29 @@
       ],
       "shortInfo": "Coder stysle portfolio website",
       "link": "https://github.com/yashkurzekar/yashkurzekar.github.io"
+    },
+    {
+      "sn": 10,
+      "projectTitle": "recurssion-tree-visulizer",
+      "periodStart": "Dec 2020",
+      "periodEnd": "Present",
+      "toolsUsed": [
+        "VS code",
+        "Algorithms",
+        "React",
+        "Yarn",
+        "prismJS"
+      ],
+      "tags": [
+        "HTML",
+        "JS",
+        "CSS",
+        "JSON",
+        "React",
+        "Yarn"
+      ],
+      "shortInfo": "Recurssion tree visulizer in step by step graphical manner",
+      "link": "https://recurssion-tree-visulizer.vercel.app/"
     }
 
   ],
