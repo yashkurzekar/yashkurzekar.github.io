@@ -469,6 +469,25 @@
       ],
       "shortInfo": "Recurssion tree visulizer in step by step graphical manner",
       "link": "https://recurssion-tree-visulizer.vercel.app/"
+    },
+    {
+      "sn": 9,
+      "projectTitle": "Egg Timer- iOS Application",
+      "periodStart": "Dec 2020",
+      "periodEnd": "Dec 2020",
+      "toolsUsed": [
+        "Xcode",
+        "Swift",
+        "SwiftUI"
+      ],
+      "tags": [
+        "iOS",
+        "Swift",
+        "SwiftUI",
+        "Xcode"
+      ],
+      "shortInfo": "Egg timer app to boil your eggs to perfection depending on how you prefer your eggs.",
+      "link": "https://github.com/yashkurzekar/Egg-Timer"
     }
 
   ],
