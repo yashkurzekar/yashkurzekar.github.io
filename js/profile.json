@@ -351,8 +351,8 @@
   "experince": [
     
     {
-      "sn": 1,
-      "link": " ",
+      "sn": 3,
+      "link": "http://www.rapz.tech",
       "workPosition": "Digital and Social Marketing Intern",
       "periodStart": "April 2019",
       "periodEnd": "May 2019",
@@ -361,13 +361,33 @@
       "type": "work"
     },
     {
-      "sn": 0,
+      "sn": 2,
       "link": "http://www.omegasoftindia.com",
       "workPosition": "Software Development Intern",
       "periodStart": "Nov 2019",
       "periodEnd": "May 2020",
       "organisation": "OmegaSoft Technologies",
       "experience": "<ul><li>Involved in designing, developing features and parts of an Senior developing team.</li></ul>",
+      "type": "work"
+    },
+    {
+      "sn": 1,
+      "link": "https://www.techmahindra.com/",
+      "workPosition": "Associate Software Engineer Intern",
+      "periodStart": "Nov 2020",
+      "periodEnd": "feb 2021",
+      "organisation": "Tech Mahindra Limited",
+      "experience": "<ul><li>Involved in under multiple learning and solution programs, developing and design website, solving real time problems.</li></ul>",
+      "type": "work"
+    },
+    {
+      "sn": 0,
+      "link": "https://www.accenture.com/in-en",
+      "workPosition": "Associate Software Engineer",
+      "periodStart": "Feb 2021",
+      "periodEnd": "Present",
+      "organisation": "Accenture India",
+      "experience": "<ul><li></li></ul>",
       "type": "work"
     }
   ],
@@ -583,5 +603,5 @@
     "If you cannot be a pencil to write someone's happiness, then try to be an erases to erase someone's sorrows.",
     "Tabs are better than spaces."
   ],
-  "helloText": "<p>Dear Visitor, Thank you for visiting my webspace.</p>\n<p>I'm seeking for a job opportunity if you are here for hiring here is my <a href='/yash_kurzekar.pdf'>Resume</a></p>\n<p> I completed  B.E. Information Technology at <a href='https://ghrce.raisoni.net/'>G.H. Raisoni College of Engineering Nagpur</a> and my schooling from <a href='https://www.facebook.com/Janata-Vidyalaya-Junior-College-Nagbhid-441205-Artssciencemcvc-1591297261166180/?__xts__[0]=68.ARC7zIpDtTrjbM_PHZnVjm7ocsAZEE5PQ1tsq7Tld8bQ_cgUOJFXxQS4nGBYBuMtqWIL8RyhjMx-1CI3jZzfTknK2_YbxnavHYvevH6IwV3BehJv14lMWsL3fVwUsh0Kl0Y4wqKRLejJytZXJbh8Fu0KFycQaE4w-OKNddAVeYUjj_cXPTnpviS-pp5Ud687hMDnNZJZr6vchuf_XmNqhE0qBhhdFsjW6ju0CXiLIRFauoN2R73gpgE15SB5ElmXKZmsKDQBH__zV7sH6KXFMTElTNC9dzuek0SM21IsalCOhWFL0PjNDizYyooKiJJGjknvzhLIK308VuyIXF6pKVCohBFt&__xts__[1]=68.ARAGtc3HOa_-zJjN1ovw_BJkGyFqKGDsyrlrhFubFELHIgs_bHweA758rU766QJGBiv8QPiFwOaK_GgdB6SZgdtLn3QsUEc6uma24ZsmZmHXHeUMqlgYLUBy31t8h76pAv0xjOem1wnpiQkvDIQZunCAYHUsKh8g3E0JTfKrLMgi_viCRh9OhEQzsz2anPYjFPtY-hVIvrIL4oXF1d5MxkTT9-JsDKETZNvAm3GIOPnYUQQRbKHzZTL4cuGF-xuRBBRh4YCW28i2wMiSC56DTk4Haaters8Rpj4VCjKgdzPbfN1ibVcxRyIN44UxDQLeOWe10q_niW2r7RGTezkasyNfqm6s&hc_ref=ARTY3Lxwy2UulsbmL2vKmlOF8CrAfOk89ouoXbNc7IMsbr_CDog55AxNxylFxyO2U3s&fref=nf&__tn__=kC-R'>Janta Vidhyalaya, Nagbhir</a> and Junior college from <a href='http://omsatyasai.com/'>Om Satyasai Junior College.</a></p>\n\n<p>I'm interested in Algorithms, System Programming, Distributed Systems and Machine Learning. I overwhelmingly like C, C++, Python and Javascript :)</p>\n\n<p>How can I help you?</br>I can design, develop and deliver technological solutions to your problems.</p><p>Do we have something in common? If yes, let's have a talk about it and grow together.</p> <p> We don't have anything in common?</br>That's fine,please introduce me something that I'm missing.</p>"
+  "helloText": "<p>Dear Visitor, Thank you for visiting my webspace.</p>\n<p>I'm working as Associate Software Engineer at <a href='https://www.accenture.com/in-en'>Accenture</a>.</p>\n<p> I completed  B.E. Information Technology at <a href='https://ghrce.raisoni.net/'>G.H. Raisoni College of Engineering Nagpur</a> and my schooling from <a href='https://www.facebook.com/Janata-Vidyalaya-Junior-College-Nagbhid-441205-Artssciencemcvc-1591297261166180/?__xts__[0]=68.ARC7zIpDtTrjbM_PHZnVjm7ocsAZEE5PQ1tsq7Tld8bQ_cgUOJFXxQS4nGBYBuMtqWIL8RyhjMx-1CI3jZzfTknK2_YbxnavHYvevH6IwV3BehJv14lMWsL3fVwUsh0Kl0Y4wqKRLejJytZXJbh8Fu0KFycQaE4w-OKNddAVeYUjj_cXPTnpviS-pp5Ud687hMDnNZJZr6vchuf_XmNqhE0qBhhdFsjW6ju0CXiLIRFauoN2R73gpgE15SB5ElmXKZmsKDQBH__zV7sH6KXFMTElTNC9dzuek0SM21IsalCOhWFL0PjNDizYyooKiJJGjknvzhLIK308VuyIXF6pKVCohBFt&__xts__[1]=68.ARAGtc3HOa_-zJjN1ovw_BJkGyFqKGDsyrlrhFubFELHIgs_bHweA758rU766QJGBiv8QPiFwOaK_GgdB6SZgdtLn3QsUEc6uma24ZsmZmHXHeUMqlgYLUBy31t8h76pAv0xjOem1wnpiQkvDIQZunCAYHUsKh8g3E0JTfKrLMgi_viCRh9OhEQzsz2anPYjFPtY-hVIvrIL4oXF1d5MxkTT9-JsDKETZNvAm3GIOPnYUQQRbKHzZTL4cuGF-xuRBBRh4YCW28i2wMiSC56DTk4Haaters8Rpj4VCjKgdzPbfN1ibVcxRyIN44UxDQLeOWe10q_niW2r7RGTezkasyNfqm6s&hc_ref=ARTY3Lxwy2UulsbmL2vKmlOF8CrAfOk89ouoXbNc7IMsbr_CDog55AxNxylFxyO2U3s&fref=nf&__tn__=kC-R'>Janta Vidhyalaya, Nagbhir</a> and Junior college from <a href='http://omsatyasai.com/'>Om Satyasai Junior College.</a></p>\n\n<p>I'm interested in Algorithms, System Programming, Distributed Systems and Machine Learning. I overwhelmingly like C, C++, Python and Javascript :)</p>\n\n<p>How can I help you?</br>I can design, develop and deliver technological solutions to your problems.</p><p>Do we have something in common? If yes, let's have a talk about it and grow together.</p> <p> We don't have anything in common?</br>That's fine,please introduce me something that I'm missing.</p>"
 }
