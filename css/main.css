@@ -1,229 +1,244 @@
 div.content {
-	display: none;
+    display: none;
 }
 
 .progress {
-	background-color: white;
-	margin: 25% 0 0 0;
+    background-color: white;
+    margin: 25% 0 0 0;
 }
 
 .progress .indeterminate {
     background-color: #1f1f1f;
 }
 
-#name{
-	font-size:  2.5rem;
-	font-weight: bold;
+#name {
+    font-size: 2.5rem;
+    font-weight: bold;
 }
 
-.title{
-	font-size: 1.5rem;
-	font-weight: bold;
+.title {
+    font-size: 1.5rem;
+    font-weight: bold;
+    /* color: #01a252; */
+    color: teal;
 }
 
-#name sub{
-	font-size: 50%;		
-	text-transform: lowercase;
+.position {
+    text-align: right;
 }
 
-#hello p,#summary p{
-	text-align: justify;
+.project .col {
+    padding: 0;
 }
 
-.row {
-	margin-bottom:0px;
+.work .col {
+    padding: 0;
 }
 
-#links img{	
-	width: 100%;
-	height: 100%;
-	filter: grayscale(1);
-	border-radius: 50%;
+.education .col {
+    padding: 0;
 }
 
-#links .s2{
-	width: 16%;
-	margin: 2%;
+#name sub {
+    font-size: 30%;
+    text-transform: lowercase;
 }
 
-.section{
-	padding-top: 0;
-	padding-bottom: 0.5rem;
+.content-text {
+    text-align: justify;
 }
 
-.info{
-	height: 100%;
+#content {
+    position: absolute;
+    top: 5%;
 }
 
-#pageb .tabs{
-	background: none;
+@media screen and (max-width: 1080px) {
+    #content {
+        top: 10%;
+    }
 }
 
-
-.type.col.m4{
-	min-height: 200px;
+@media screen and (max-width: 1024px) {
+    #content {
+        top: 5%;
+    }
 }
 
-.row.project,.row.education,.row.work{
-
-	padding: 2%;
-	margin-top: 1%;
-	margin-bottom: 1%;
+@media screen and (max-width: 800px) {
+    #content {
+        top: 5%;
+    }
 }
 
-#links .col.s2{
-	padding: 0;
+@media screen and (max-width: 480px) {
+    #content {
+        top: 10%;
+    }
 }
 
-.tag{
-	font-style: italic;
-}
-
-.ps.ps--active-x > .ps__scrollbar-x-rail, .ps.ps--active-y > .ps__scrollbar-y-rail{
-	background: none;
-}
-
-.ps > .ps__scrollbar-y-rail > .ps__scrollbar-y{
-	background-color: rgba(255,255,255,0.20);
-}
-
-.tabs-content.carousel .carousel-item{
-	height: 100%;
-	overflow-y: scroll;
+#content .row {
+    margin-bottom: 0px;
 }
 
 
-.tabs .tab a{
-	opacity: 1;
+/* .page {
+    max-width: 60%;
+    margin-left: 20%;
+    margin-right: 20%;
+} */
+
+
+/* hr {
+    max-width: 60%;
+    margin-left: 20%;
+    margin-right: 20%;
+} */
+
+.details span {
+    text-align: justify;
+    display: block;
 }
 
-#skills .m2{
-	width: 14.666%;
-	margin: 1%;
-	padding: 2%;
-	border-radius: 50%;
-	font-size: 1.15rem;
+.teamName {
+    color: #663399;
 }
 
-.collapsible-header,.collapsible-body{
-	background: none;
-	border: none;
-	padding: 0;
+.row.project,
+.row.education,
+.row.work {
+    padding: 1%;
 }
 
-
-.collapsible{
-	border: none;
-	box-shadow: none;
+#links .col.s2 {
+    padding: 0;
 }
 
-
-#skills svg {
-	height: 100%;
-	width: 100%;
+.tag {
+    font-style: italic;
 }
 
-.education.col.s12, .work.col.s12{
-	margin: 1%;
+#tabs {
+    position: fixed;
+    width: 100%;
+    background-color: #1f1f1d;
+    z-index: 9999;
 }
 
-
-object{
-	width: 16%;
-	margin: 1%;
+#tabs span {
+    float: left;
+    padding-left: 1%;
+    text-align: center;
 }
 
-#contact{
-	text-align: center;
+#content {}
+
+#skills .row {
+    padding-top: 1%;
+    padding-bottom: 1%;
 }
 
-#skills{
-	text-align: center;
-	font-size: 10px;
+.gratitudes a {
+    float: left;
+    padding: 1%;
 }
 
-#believe{
-	height: 10em;
+.skill {
+    text-align: center;
 }
 
-#skills svg path{
-	fill: rgba(255,255,255,1);
+.skill .icon {
+    font-size: 3em;
 }
 
-
-#image img{
-	width: 39.5%;
-	filter: grayscale(1);
-	border: solid white 3px;
-	margin-left: 30.25%;
-	margin-right: 30.25%;
+.skill span {
+    display: block;
+    font-size: 1rem;
+    text-align: center;
 }
 
-#links svg path{
-	fill: white;
+.tools {
+    overflow: scroll;
 }
 
-#moghyaSays{
-	border-top: solid white 1px;
-	font-size: 1rem;
-	margin-top: 5%
+#skills .m2 {
+    width: 14.666%;
+    margin: 1%;
+    padding: 2%;
+    border-radius: 50%;
+    font-size: 1.15rem;
+    text-align: center;
 }
 
-.details{
-	text-align: justify;
-	padding-left: 2%;
+.education.col.s12,
+.work.col.s12 {
+    margin: 1%;
 }
 
-a{
-	color: green;
-}
-.tabs .tab a.active {
-	color: white;
-	opacity: 1;
+object {
+    width: 16%;
+    margin: 1%;
 }
 
-.tabs .tab a{
-	color: white;
+#contact {
+    text-align: center;
 }
 
-.tabs .tab a:hover{
-	color: white;
+#moghyaSays {
+    font-size: 1rem;
 }
 
-.tabs .indicator{
-	background-color: white;
+.period {
+    text-align: right;
 }
 
-body{
-	background-color: #1f1f1f;
-	color: white;
-	font-family: "Lekton", monospace;
-	font-size: 1.15rem;
-	font-display: auto;
+.golden {
+    color: #d3a04d;
+    background-color: none;
+}
+
+.score {
+    text-align: right;
+}
+
+a {
+    color: green;
+}
+
+* {
+    scroll-behavior: smooth;
+}
+
+body {
+    background-color: #1f1f1d;
+    /* background-color: #646464; */
+    color: #b6b6b6;
+    font-family: "Lekton", monospace;
+    font-size: 1.15rem;
+    font-display: auto;
 }
 
 h6 {
-	font-size: 1.15rem;
+    font-size: 1.15rem;
 }
 
-
 .swal-button {
-	color: white;
-	background-color: #1f1f1f;
-	box-shadow: none !important;
-	text-align: justify;
+    color: white;
+    background-color: #1f1f1f;
+    box-shadow: none !important;
+    text-align: justify;
 }
 
 button:focus {
-	color: white !important;
-	background-color: #1f1f1f !important;
+    color: white !important;
+    background-color: #1f1f1f !important;
 }
 
 button:hover {
-	color: white !important;
-	background-color: #1f1f1f !important;
+    color: white !important;
+    background-color: #1f1f1f !important;
 }
 
 .swal-button-container {
-	display: inline;
+    display: inline;
 }
