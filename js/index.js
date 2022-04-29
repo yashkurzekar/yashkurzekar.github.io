@@ -160,7 +160,7 @@ function onBodyLoad() {
 
 swal({
         title: "Hello World!!!",
-        text: "Hello visitor, you have landed upon little webspace of moghya. I hope you're doing well. \n Are you hiring ?",
+        text: "Hello visitor, you have landed upon little webspace of Yash. I hope you're doing well. \n Are you hiring ?",
         buttons: {
             confirm: {
                 text: "Yes, I'm hiring.",
