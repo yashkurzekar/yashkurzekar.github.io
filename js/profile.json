@@ -267,8 +267,6 @@
       ["C", "devicon-c-plain colored"],
       ["C++", "devicon-cplusplus-plain colored"],
       ["JavaScript", "devicon-javascript-plain colored"],
-      ["Siebel", "devicon-oracle-original colored"],
-      ["NodeJS", "devicon-nodejs-plain colored"],
       ["Java", "devicon-java-plain-wordmark colored"],
       ["MySQL", "devicon-mysql-plain colored"],
       ["MongoDB", "devicon-mongodb-plain colored"],
@@ -777,7 +775,7 @@
       "sn": 5
     },
     {
-      "name": "StackOverflow",
+      "name": "Instagram",
       "icon": "instagram.svg",
       "link": "https://www.instagram.com/yash_kurzekar/",
       "sn": 3
