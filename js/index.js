@@ -201,7 +201,7 @@ swal({
                 }
             }).then((value) => {
                 if (value === true) {
-                    window.open('/yash_kurzekar1.pdf');
+                    window.open('/resume.pdf');
                 }
             })
         }
