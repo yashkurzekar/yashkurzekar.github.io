@@ -268,6 +268,7 @@
       ["C++", "devicon-cplusplus-plain colored"],
       ["JavaScript", "devicon-javascript-plain colored"],
       ["Java", "devicon-java-plain-wordmark colored"],
+      ["Swift","devicon-swift-plain colored"],
       ["MySQL", "devicon-mysql-plain colored"],
       ["MongoDB", "devicon-mongodb-plain colored"],
       ["Linux", "devicon-linux-plain"],
@@ -278,8 +279,7 @@
       ["HTML5", "devicon-html5-plain colored"],
       ["CSS3", "devicon-css3-plain colored"],
       ["VSCode", "devicon-vscode-plain colored"],
-      ["GitHub", "devicon-github-plain"],
-      ["Jira", "devicon-jira-plain colored"]
+      ["GitHub", "devicon-github-plain"]
   ],
   "experince": [{
           "sn": 6,
@@ -371,14 +371,14 @@
       {
           "sn": -1,
           "link": "https://www.techmahindra.com/",
-          "workPosition": "Associate Software Engineer Intern",
-          "periodStart": "Nov'20",
-          "periodEnd": "jan'20",
-          "organisation": "TechMahindra",
+          "workPosition": "Software Development Engineer Intern",
+          "periodStart": "June'20",
+          "periodEnd": "Feb'20",
+          "organisation": "Rootkings.dev",
           "experience": [{
-              "team": "UI/UX Team",
-              "periodStart": "Nov'20",
-              "periodEnd": "Jan'21",
+              "team": "Core Development",
+              "periodStart": "June'20",
+              "periodEnd": "Feb'21",
               "details": [
                   "Developed static Webpages for clients.",
                   "Reviwed Product Requirement documents and created Software System Design documents.",
@@ -399,11 +399,15 @@
           "periodEnd": "Present",
           "organisation": "Accenture solutions Pvt Ltd",
           "experience": [{
-              "team": "Europe",
+              "team": "Siebel HMD Dev",
               "periodStart": "feb'21",
               "periodEnd": "Present",
               "details": [
-                  "Developing new Application Journeys for client on Open UI."
+                "congifured journeies on siebel CRM",
+                  "Worked on OpenUI development for Front-end customization.",
+                  "Implemented customised logic in application, applet, business components, business service, views, screen, workflow and IO.",
+                  "Developed Siebel API using WorkFlow and Business Servive.",
+                  "Developing various user stories and submitting the technical design and Unit test evidences."
               ]
           }],
           "type": "work",
@@ -517,19 +521,19 @@
       {
           "show": true,
           "sn": 3,
-          "projectTitle": "Vodafone NewCo uk",
-          "periodStart": "Feb'21",
+          "projectTitle": "Recurssion Tree Visulizer",
+          "periodStart": "Jan'21",
           "periodEnd": "Present",
           "toolsUsed": [
-              "siebel",
-              "openUI",
-              "Siebel tools",
-              "javaScript"
+              "React",
+              "HTML",
+              "TypeScript",
+              "Styled Components"
           ],
           "tags": [
-              "siebel",
-              "openUI",
-              "javaScript"
+              "React",
+              "JavaScript",
+              "TypeScript"
           ],
           "info": [
               "working on new requirements and defects.",
@@ -845,5 +849,5 @@
       "If you cannot be a pencil to write someone's happiness, then try to be an erases to erase someone's sorrows.",
       "Tabs are better than spaces."
   ],
-  "helloText": "<p>Dear Visitor, Thank you for visiting my webspace.</p>\n<p>I'm working as Member of Technical Staff at <a href='https://cohesity.com'>Cohesity</a></p>\n<p>Before this I used work as Software Development Engineer at <a href='http://media.net'>Media.Net</a>. I completed  B.Tech Information Technology at <a href='http://walchandsangli.ac.in'>Walchand College of Engineering Sangli</a> & my schooling from <a href='http://jnvwashim.gov.in'>Jawahar Navodaya Vidyalaya, Washim</a>.</p>\n\n<p>I'm interested in Algorithms, System Programming, Distributed Systems & Machine Learning. I overwhelmingly like C++, Python & Javascript :)</p>\n\n<p>How can I help you?</br>I can design, develop & deliver technological solutions to your problems.</p><p>Do we have something in common? If yes, let's have a talk about it & grow together.</p> <p> We don't have anything in common?</br>That's fine,please introduce me something that I'm missing.</p>"
+  "helloText": "<p>Dear Visitor, Thank you for visiting my webspace.</p>\n<p>I'm working as Member of Technical Staff at <a href='https://accenture.com'>Accenture</a></p>\n<p>Before this I used work as Software Development Engineer intern at <a href='http://rootkings.dev'>RootKings.dev</a>. I completed  B.Tech Information Technology at <a href='https://ghrce.raisoni.net'>G.H. Raisoni College of Engineering Nagpur</a> & my schooling from Jantavidhyalaya, Nagbhir</a>.</p>\n\n<p>I'm interested in Algorithms, System Programming, Distributed Systems & Machine Learning. I overwhelmingly like C++, Python & Javascript :)</p>\n\n<p>How can I help you?</br>I can design, develop & deliver technological solutions to your problems.</p><p>Do we have something in common? If yes, let's have a talk about it & grow together.</p> <p> We don't have anything in common?</br>That's fine,please introduce me something that I'm missing.</p>"
 }
