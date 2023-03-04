@@ -542,7 +542,7 @@
       },
       {
           "show": true,
-          "sn": 3,
+          "sn": 2,
           "projectTitle": "Recurssion Tree Visulizer",
           "periodStart": "Jan'21",
           "periodEnd": "Present",
@@ -564,47 +564,46 @@
           "link": ""
       },
       {
-          "show": false,
+          "show": true,
           "sn": 1,
-          "projectTitle": "Strategic Location using Facebook Data",
-          "periodStart": "Dec'16",
-          "periodEnd": "Dec'16",
+          "projectTitle": "Buzzn",
+          "periodStart": "Jan'22",
+          "periodEnd": "Present",
           "toolsUsed": [
-              "python",
-              "scikit-learn",
-              "ipynb",
-              "graph-api"
+              "JavaScript",
+              "Vue.js",
+              "WebApp",
+              "MongoDB"
           ],
           "tags": [
-              "machine-learning",
-              "regression",
-              "python"
+              "Social Media",
+              "Trade",
+              "Vue.js"
           ],
           "info": [
-              "Applied Machine Learning techniques & built a model to predict Facebook Check-ins at a desired location for business."
+              "Trade with your friends, share what you're up to, or check what's fresh from celebrities around the world. Welcome to Buzzn - the modern social networking."
           ],
-          "link": "https://github.com/moghya/Stratergic-Location"
+          "link": "https://www.keepbuzzn.com/"
       },
       {
-          "show": false,
-          "sn": 2,
-          "projectTitle": "prowessIndex",
-          "periodStart": "Jun'17",
-          "periodEnd": "Jun'17",
+          "show": true,
+          "sn": 3,
+          "projectTitle": "DumDum",
+          "periodStart": "Jan'20",
+          "periodEnd": "Jun'20",
           "toolsUsed": [
-              "python",
-              "flask",
-              "pandas"
+              "Android Studio",
+              "Java",
+              "Visual Studio Code"
           ],
           "tags": [
-              "python",
-              "data analytics"
+              "Android",
+              "Self Motivation"
           ],
           "info": [
-              "Flask web application serving implementation of a paper that I worked on.",
-              "'Making Sense of Numbers' is paper that proposes method for deriving inferences about prowess of a stduent in certain skills by using attained grades in university exams."
+              "An app makes you smile, and picks you up and dusts you off."
           ],
-          "link": "https://novatoscript.pythonanywhere.com/"
+          "link": "https://play.google.com/store/apps/details?id=com.rootkings.dumdum"
       },
       {
           "show": false,
