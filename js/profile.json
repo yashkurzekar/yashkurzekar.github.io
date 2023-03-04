@@ -2,7 +2,7 @@
   "personalInfo": {
       "myimg": "profilePic.jpg",
       "fname": "Yash",
-      "mname": "Parashram",
+      "mname": "Ashok",
       "lname": "Kurzekar",
       "nick": "bunny",
       "address": {
@@ -370,7 +370,7 @@
       },
       {
           "sn": -1,
-          "link": "https://www.techmahindra.com/",
+          "link": "https://www.rootkings.dev/",
           "workPosition": "Software Development Engineer Intern",
           "periodStart": "June'20",
           "periodEnd": "Feb'20",
@@ -408,6 +408,28 @@
                   "Implemented customised logic in application, applet, business components, business service, views, screen, workflow and IO.",
                   "Developed Siebel API using WorkFlow and Business Servive.",
                   "Developing various user stories and submitting the technical design and Unit test evidences."
+              ]
+          }],
+          "type": "work",
+          "status": "Fulltime",
+          "location": "pune, india"
+      },
+      {
+          "sn": -3,
+          "link": "https://www.accenture.com",
+          "workPosition": "Application Development Analyst",
+          "periodStart": "March'23",
+          "periodEnd": "Present",
+          "organisation": "Accenture solutions Pvt Ltd",
+          "experience": [{
+              "team": "Siebel HMD Dev",
+              "periodStart": "",
+              "periodEnd": "",
+              "details": [
+                "congifured journeies on siebel CRM",
+                  "Development of Siebel Open UI to create new Applications for the Project Working with clients to understand their exact requirements.",
+                  "Working as Software Developer to build new applications & EAI(API) on Siebel.",
+                  "Developing various user stories."
               ]
           }],
           "type": "work",
