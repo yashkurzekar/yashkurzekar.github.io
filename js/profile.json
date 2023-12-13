@@ -385,7 +385,7 @@
           "periodEnd": "Feb'21",
           "details": [
             "Developed static Webpages for clients.",
-            "Reviwed Product Requirement documents and created Software System Design documents.",
+            "Reviewed Product Requirement documents and created Software System Design documents.",
             "Planned & Executed End-to-End feature development following Agile Sprint Methodology.",
             "Responsibilities included Designing, Developing & Optimizing Backup & Recovery solutions.",
             "Debugging & Resolving Customer Escalations by actively getting on Customer calls."
@@ -409,7 +409,7 @@
           "periodStart": "feb'21",
           "periodEnd": "Present",
           "details": [
-            "congifured journeies on siebel CRM",
+            "Congifured journey on siebel CRM",
             "Worked on OpenUI development for Front-end customization.",
             "Implemented customised logic in application, applet, business components, business service, views, screen, workflow and IO.",
             "Developed Siebel API using WorkFlow and Business Servive.",
@@ -419,31 +419,31 @@
       ],
       "type": "work",
       "status": "Fulltime",
-      "location": "pune, india"
+      "location": "Pune, India"
     },
     {
       "sn": -3,
       "link": "https://www.accenture.com",
       "workPosition": "Packaged App Development Analyst",
       "periodStart": "March'23",
-      "periodEnd": "Present",
+      "periodEnd": "February'23",
       "organisation": "Accenture solutions Pvt Ltd",
       "experience": [
         {
           "team": "Siebel HMD Dev",
-          "periodStart": "",
-          "periodEnd": "",
+          "periodStart": "February'23",
+          "periodEnd": "Present",
           "details": [
-            "congifured journeies on siebel CRM",
+            "Congifured journey on siebel CRM",
             "Development of Siebel Open UI to create new Applications for the Project Working with clients to understand their exact requirements.",
-            "Working as Software Developer to build new applications & EAI(API) on Siebel.",
+            "Working as Software Developer to build new Applications & EAI(API) on Siebel.",
             "Developing various user stories."
           ]
         }
       ],
       "type": "work",
       "status": "Fulltime",
-      "location": "pune, india"
+      "location": "Pune, India"
     }
   ],
   "projects": [
@@ -483,8 +483,8 @@
       "toolsUsed": ["Eclips"],
       "tags": ["J2EE"],
       "info": [
-        "multiple-choice questions and takes input from Candidates as answer and evaluates all questions and gives back output as result.",
-        "conducting lab exams online."
+        "Multiple-choice questions and takes input from Candidates as answer and evaluates all questions and gives back output as result.",
+        "Conducting lab exams online."
       ],
       "link": ""
     },
@@ -496,7 +496,7 @@
       "periodEnd": "July'20",
       "toolsUsed": ["HTML", "js", "CSS", "JSON", "Visual Studio Code"],
       "tags": ["HTML", "js", "CSS", "JSON"],
-      "info": ["terminal style portfolio website"],
+      "info": ["Terminal style portfolio website"],
       "link": "https://github.com/yashkurzekar/yashkurzekar.github.io"
     },
     {
@@ -505,7 +505,7 @@
       "projectTitle": "Egg Timer- iOS Application",
       "periodStart": "Aug'20",
       "periodEnd": "Aug'20",
-      "toolsUsed": ["iOS", "swift", "Swift-UI"],
+      "toolsUsed": ["iOS", "Swift", "Swift-UI"],
       "tags": ["iOS", "swift", "Swift-UI"],
       "info": [
         "Egg timer app to boil your eggs to perfection depending on how you prefer your eggs."
@@ -521,8 +521,8 @@
       "toolsUsed": ["React", "HTML", "TypeScript", "Styled Components"],
       "tags": ["React", "JavaScript", "TypeScript"],
       "info": [
-        "working on new requirements and defects.",
-        "developing siebel OpenUI applications."
+        "Working on new requirements and defects.",
+        "Developing siebel OpenUI applications."
       ],
       "link": ""
     },
