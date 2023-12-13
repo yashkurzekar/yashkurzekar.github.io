@@ -1,792 +1,670 @@
 {
   "personalInfo": {
-      "myimg": "profilePic.jpg",
-      "fname": "Yash",
-      "mname": "Ashok",
-      "lname": "Kurzekar",
-      "nick": "bunny",
-      "address": {
-          "list": [
-              "Kurzekar layout, T.point Nagbhir, District-Chandrapur, Maharashtra, India 441205 ",
-      "SP Bhure,santaji society, manish nagar, somalwada, nagpur, District-Nagpur, Maharashtra, India 440016"
-          ]
-      },
-      "email": "yashkurzekar2@gmail.com",
-      "mob": "8888627998"
+    "myimg": "profilePic.jpg",
+    "fname": "Yash",
+    "mname": "Ashok",
+    "lname": "Kurzekar",
+    "nick": "bunny",
+    "address": {
+      "list": [
+        "Kurzekar layout, T.point Nagbhir, District-Chandrapur, Maharashtra, India 441205 ",
+        "SP Bhure,santaji society, manish nagar, somalwada, nagpur, District-Nagpur, Maharashtra, India 440016"
+      ]
+    },
+    "email": "yashkurzekar2@gmail.com",
+    "mob": "8888627998"
   },
-  "educations": [{
+  "educations": [
+    {
       "periodStart": "July 2016",
       "periodEnd": "June 2020",
       "course": "B.E. Information Technology",
       "score": "8.13 CGPA",
       "inst": "G.H. Raisoni College of Engineering, Nagpur",
       "board": "Rashtrasant Tukadoji Maharaj Nagpur University",
-          "courses": [
-              {
-                "courseCode": "BCHL103",
-                "courseName": "Applied CHemistry",
-                "courseScore": " ",
-                "sn": 1
-              },
-              {
-                "courseCode": "BAML101",
-                "courseName": "Applied Mathematics-I",
-                "courseScore": "",
-                "sn": 2
-              },
-              {
-                "courseCode": "BITP413",
-                "courseName": "Realtime Operating System",
-                "courseScore": "",
-                "sn": 3
-              },
-              {
-                "courseCode": "BITP406",
-                "courseName": "Project Phase-I Seminar",
-                "courseScore": "",
-                "sn": 4
-              },
-              {
-                "courseCode": "BITL404",
-                "courseName": "TCP/IP",
-                "courseScore": "",
-                "sn": 5
-              },
-              {
-                "courseCode": "BITL401",
-                "courseName": "Human Computer Interaction",
-                "courseScore": "",
-                "sn": 6
-              },
-              {
-                "courseCode": "BECL410",
-                "courseName": "Embedded Systems",
-                "courseScore": "",
-                "sn": 10
-              },
-              {
-                "courseCode": "BCSL422",
-                "courseName": "Big Data and Hadoop",
-                "courseScore": "",
-                "sn": 11
-              },
-              {
-                "courseCode": "BHUP109",
-                "courseName": "Ethics and Professional Competency",
-                "courseScore": "",
-                "sn": 12
-              },
-              {
-                "courseCode": "BITP305",
-                "courseName": "Mini Project",
-                "courseScore": "",
-                "sn": 13
-              },
-              {
-                "courseCode": "BITL304",
-                "courseName": "Computer System Security",
-                "courseScore": "",
-                "sn": 15
-              },
-              {
-                "courseCode": "BITL104",
-                "courseName": "Basics of Computer",
-                "courseScore": "",
-                "sn": 16
-              },
-              {
-                "courseCode": "BHUL100",
-                "courseName": "Engineering Economics and Industrial Management",
-                "courseScore": "",
-                "sn": 34
-              },
-              {
-                "courseCode": "BCSL202",
-                "courseName": "Computer Organization and Architechture",
-                "courseScore": "",
-                "sn": 18
-              },
-              {
-                "courseCode": "BFYP112",
-                "courseName": "Mini Modeling",
-                "courseScore": "",
-                "sn": 32
-              },
-              {
-                "courseCode": "BCSL201",
-                "courseName": "Data Structures using C",
-                "courseScore": "",
-                "sn": 21
-              },
-              {
-                "courseCode": "BITL201",
-                "courseName": "Introduction to Internet Programming",
-                "courseScore": "",
-                "sn": 7
-              },
-              {
-                "courseCode": "BITL202",
-                "courseName": "Object Oriented Programming Through C++",
-                "courseScore": "",
-                "sn": 8
-              },
-              {
-                "courseCode": "BITP203",
-                "courseName": "Software Lab",
-                "courseScore": "",
-                "sn": 29
-              },
-              {
-                "courseCode": "BAML206",
-                "courseName": "Mathematical Applications in Computational Engineering",
-                "courseScore": "",
-                "sn": 17
-              },
-              {
-                "courseCode": "BCSL301",
-                "courseName": "Theory of Computation",
-                "courseScore": "",
-                "sn": 22
-              },
-              {
-                "courseCode": "BCSL404",
-                "courseName": "Design and Analysis of Algorithms",
-                "courseScore": "",
-                "sn": 19
-              },
-              {
-                "courseCode": "BECL210",
-                "courseName": "Analog and Digital COmmunicastion",
-                "courseScore": "",
-                "sn": 26
-              },
-              {
-                "courseCode": "BECL303",
-                "courseName": "Microprocessor Baesd System",
-                "courseScore": "",
-                "sn": 33
-              },
-              {
-                "courseCode": "BITL303",
-                "courseName": "Software Engineering",
-                "courseScore": "",
-                "sn": 25
-              },
-              {
-                "courseCode": "BCSL427",
-                "courseName": "Data Analytics",
-                "courseScore": "",
-                "sn": 24
-              },
-              {
-                "courseCode": "BCSL302",
-                "courseName": "System Programming",
-                "courseScore": "",
-                "sn": 20
-              },
-              {
-                "courseCode": "BCSL303",
-                "courseName": "Database Management System",
-                "courseScore": "",
-                "sn": 30
-              },
-              {
-                "courseCode": "BCSL304",
-                "courseName": "Operating Systems",
-                "courseScore": "",
-                "sn": 23
-              },
-              {
-                "courseCode": "BCSL423",
-                "courseName": "Artificial Intelligence and Machine Learning",
-                "courseScore": "",
-                "sn": 27
-              },
-              {
-                "courseCode": "BCSL415",
-                "courseName": "Cloud Computing",
-                "courseScore": "",
-                "sn": 14
-              },
-              {
-                "courseCode": "BITL301",
-                "courseName": "Java Programming",
-                "courseScore": "",
-                "sn": 9
-              },
-              {
-                "courseCode": "BITL302",
-                "courseName": "Computer Networks",
-                "courseScore": "",
-                "sn": 28
-              },
-              {
-                "courseCode": "BCSL308",
-                "courseName": "Language Processor",
-                "courseScore": "",
-                "sn": 31
-              }
-            ]
-      },
-      {
-          "periodStart": "April 2015",
-          "periodEnd": "May 2016",
-          "course": "All India Senior School Examination",
-          "score": "61.85%",
-          "inst": "Om SatyaSai Junior College, Parsodi, Bhandara",
-          "board": "Maharastra State Board",
-          "courses": [
-            {
-              "courseCode": "040",
-              "courseName": "Mathemactics",
-              "courseScore": " ",
-              "sn": 1
-            },
-            {
-              "courseCode": "054",
-              "courseName": "Physics",
-              "courseScore": " ",
-              "sn": 2
-            },
-            {
-              "courseCode": "043",
-              "courseName": "Chemistry",
-              "courseScore": " ",
-              "sn": 3
-            },
-            {
-              "courseCode": "083",
-              "courseName": "Information Technology",
-              "courseScore": " ",
-              "sn": 4
-            }
-          ]
+      "courses": [
+        {
+          "courseCode": "BCHL103",
+          "courseName": "Applied CHemistry",
+          "courseScore": " ",
+          "sn": 1
+        },
+        {
+          "courseCode": "BAML101",
+          "courseName": "Applied Mathematics-I",
+          "courseScore": "",
+          "sn": 2
+        },
+        {
+          "courseCode": "BITP413",
+          "courseName": "Realtime Operating System",
+          "courseScore": "",
+          "sn": 3
+        },
+        {
+          "courseCode": "BITP406",
+          "courseName": "Project Phase-I Seminar",
+          "courseScore": "",
+          "sn": 4
+        },
+        {
+          "courseCode": "BITL404",
+          "courseName": "TCP/IP",
+          "courseScore": "",
+          "sn": 5
+        },
+        {
+          "courseCode": "BITL401",
+          "courseName": "Human Computer Interaction",
+          "courseScore": "",
+          "sn": 6
+        },
+        {
+          "courseCode": "BECL410",
+          "courseName": "Embedded Systems",
+          "courseScore": "",
+          "sn": 10
+        },
+        {
+          "courseCode": "BCSL422",
+          "courseName": "Big Data and Hadoop",
+          "courseScore": "",
+          "sn": 11
+        },
+        {
+          "courseCode": "BHUP109",
+          "courseName": "Ethics and Professional Competency",
+          "courseScore": "",
+          "sn": 12
+        },
+        {
+          "courseCode": "BITP305",
+          "courseName": "Mini Project",
+          "courseScore": "",
+          "sn": 13
+        },
+        {
+          "courseCode": "BITL304",
+          "courseName": "Computer System Security",
+          "courseScore": "",
+          "sn": 15
+        },
+        {
+          "courseCode": "BITL104",
+          "courseName": "Basics of Computer",
+          "courseScore": "",
+          "sn": 16
+        },
+        {
+          "courseCode": "BHUL100",
+          "courseName": "Engineering Economics and Industrial Management",
+          "courseScore": "",
+          "sn": 34
+        },
+        {
+          "courseCode": "BCSL202",
+          "courseName": "Computer Organization and Architechture",
+          "courseScore": "",
+          "sn": 18
+        },
+        {
+          "courseCode": "BFYP112",
+          "courseName": "Mini Modeling",
+          "courseScore": "",
+          "sn": 32
+        },
+        {
+          "courseCode": "BCSL201",
+          "courseName": "Data Structures using C",
+          "courseScore": "",
+          "sn": 21
+        },
+        {
+          "courseCode": "BITL201",
+          "courseName": "Introduction to Internet Programming",
+          "courseScore": "",
+          "sn": 7
+        },
+        {
+          "courseCode": "BITL202",
+          "courseName": "Object Oriented Programming Through C++",
+          "courseScore": "",
+          "sn": 8
+        },
+        {
+          "courseCode": "BITP203",
+          "courseName": "Software Lab",
+          "courseScore": "",
+          "sn": 29
+        },
+        {
+          "courseCode": "BAML206",
+          "courseName": "Mathematical Applications in Computational Engineering",
+          "courseScore": "",
+          "sn": 17
+        },
+        {
+          "courseCode": "BCSL301",
+          "courseName": "Theory of Computation",
+          "courseScore": "",
+          "sn": 22
+        },
+        {
+          "courseCode": "BCSL404",
+          "courseName": "Design and Analysis of Algorithms",
+          "courseScore": "",
+          "sn": 19
+        },
+        {
+          "courseCode": "BECL210",
+          "courseName": "Analog and Digital COmmunicastion",
+          "courseScore": "",
+          "sn": 26
+        },
+        {
+          "courseCode": "BECL303",
+          "courseName": "Microprocessor Baesd System",
+          "courseScore": "",
+          "sn": 33
+        },
+        {
+          "courseCode": "BITL303",
+          "courseName": "Software Engineering",
+          "courseScore": "",
+          "sn": 25
+        },
+        {
+          "courseCode": "BCSL427",
+          "courseName": "Data Analytics",
+          "courseScore": "",
+          "sn": 24
+        },
+        {
+          "courseCode": "BCSL302",
+          "courseName": "System Programming",
+          "courseScore": "",
+          "sn": 20
+        },
+        {
+          "courseCode": "BCSL303",
+          "courseName": "Database Management System",
+          "courseScore": "",
+          "sn": 30
+        },
+        {
+          "courseCode": "BCSL304",
+          "courseName": "Operating Systems",
+          "courseScore": "",
+          "sn": 23
+        },
+        {
+          "courseCode": "BCSL423",
+          "courseName": "Artificial Intelligence and Machine Learning",
+          "courseScore": "",
+          "sn": 27
+        },
+        {
+          "courseCode": "BCSL415",
+          "courseName": "Cloud Computing",
+          "courseScore": "",
+          "sn": 14
+        },
+        {
+          "courseCode": "BITL301",
+          "courseName": "Java Programming",
+          "courseScore": "",
+          "sn": 9
+        },
+        {
+          "courseCode": "BITL302",
+          "courseName": "Computer Networks",
+          "courseScore": "",
+          "sn": 28
+        },
+        {
+          "courseCode": "BCSL308",
+          "courseName": "Language Processor",
+          "courseScore": "",
+          "sn": 31
         }
+      ]
+    },
+    {
+      "periodStart": "April 2015",
+      "periodEnd": "May 2016",
+      "course": "All India Senior School Examination",
+      "score": "61.85%",
+      "inst": "Om SatyaSai Junior College, Parsodi, Bhandara",
+      "board": "Maharastra State Board",
+      "courses": [
+        {
+          "courseCode": "040",
+          "courseName": "Mathemactics",
+          "courseScore": " ",
+          "sn": 1
+        },
+        {
+          "courseCode": "054",
+          "courseName": "Physics",
+          "courseScore": " ",
+          "sn": 2
+        },
+        {
+          "courseCode": "043",
+          "courseName": "Chemistry",
+          "courseScore": " ",
+          "sn": 3
+        },
+        {
+          "courseCode": "083",
+          "courseName": "Information Technology",
+          "courseScore": " ",
+          "sn": 4
+        }
+      ]
+    }
   ],
   "skills": [
-      ["C", "devicon-c-plain colored"],
-      ["C++", "devicon-cplusplus-plain colored"],
-      ["JavaScript", "devicon-javascript-plain colored"],
-      ["Java", "devicon-java-plain-wordmark colored"],
-      ["Swift","devicon-swift-plain colored"],
-      ["MySQL", "devicon-mysql-plain colored"],
-      ["MongoDB", "devicon-mongodb-plain colored"],
-      ["Linux", "devicon-linux-plain"],
-      ["Bash", "devicon-bash-plain"],
-      ["Ubuntu", "devicon-ubuntu-plain colored"],
-      ["Git", "devicon-git-plain colored"],
-      ["Jenkins", "devicon-jenkins-plain colored"],
-      ["HTML5", "devicon-html5-plain colored"],
-      ["CSS3", "devicon-css3-plain colored"],
-      ["VSCode", "devicon-vscode-plain colored"],
-      ["GitHub", "devicon-github-plain"]
+    ["C", "devicon-c-plain colored"],
+    ["C++", "devicon-cplusplus-plain colored"],
+    ["JavaScript", "devicon-javascript-plain colored"],
+    ["Java", "devicon-java-plain-wordmark colored"],
+    ["Swift", "devicon-swift-plain colored"],
+    ["MySQL", "devicon-mysql-plain colored"],
+    ["MongoDB", "devicon-mongodb-plain colored"],
+    ["Linux", "devicon-linux-plain"],
+    ["Bash", "devicon-bash-plain"],
+    ["Ubuntu", "devicon-ubuntu-plain colored"],
+    ["Git", "devicon-git-plain colored"],
+    ["Jenkins", "devicon-jenkins-plain colored"],
+    ["HTML5", "devicon-html5-plain colored"],
+    ["CSS3", "devicon-css3-plain colored"],
+    ["VSCode", "devicon-vscode-plain colored"],
+    ["GitHub", "devicon-github-plain"]
   ],
-  "experince": [{
-          "sn": 6,
-          "link": "",
-          "workPosition": "Scout Troop Leader",
-          "periodStart": "April'10",
-          "periodEnd": "May'12",
-          "organisation": "JNV,Washim",
-          "experience": "It was nice to be a part of Scouting.Arranged camps,hikes & awareness rallies.",
-          "type": "volunteer"
-      },
-      {
-          "sn": 5,
-          "link": "http://wcepace.in/",
-          "workPosition": "Asst. Program Director in Events",
-          "periodStart": "Apr'15",
-          "periodEnd": "Mar'16",
-          "organisation": "Personality Advancement Circle of Engineers.",
-          "experience": "Learnt how to organize professional events & actvites, how to manage resources & make most out of everything.",
-          "type": "volunteer"
-      },
-      {
-          "sn": 4,
-          "link": "http://wcepace.in/",
-          "workPosition": "Joint. Skills Developer",
-          "periodStart": "Apr'16",
-          "periodEnd": "Jan'17",
-          "organisation": "Personality Advancement Circle of Engineers.",
-          "experience": "Good to arrange Meet ups for professional skill development of fellow PACErs.",
-          "type": "volunteer"
-      },
-      {
-          "sn": 3,
-          "link": "http://wcepace.in/",
-          "workPosition": "Cheif. Skills Developer",
-          "periodStart": "Jan'17",
-          "periodEnd": "Dec'17",
-          "organisation": "Personality Advancement Circle of Engineers.",
-          "experience": [
-              "Good to arrange Meet ups for professional skill development of fellow PACErs."
-          ],
-          "type": "volunteer"
-      },
-      {
-          "sn": 2,
-          "link": "http://pitchteq.com/",
-          "workPosition": "PHP Developer",
-          "periodStart": "Jul'16",
-          "periodEnd": "Jul'18",
-          "organisation": "PitchTeQ ",
-          "experience": [
-              "A group of college students established a web solutions startup. Worked on an e-commerce project."
-          ],
-          "type": "volunteer"
-      },
-      {
-          "sn": 1,
-          "link": "http://www.praxisinfotech.com/",
-          "workPosition": "Web Development Intern",
-          "periodStart": "Jun'17",
-          "periodEnd": "Jul'17",
-          "organisation": "Praxis Infotech ",
-          "experience": [
-              "Developed a PHP, MySQL web application. Added a layer on top of Google maps for places & events."
-          ],
-          "type": "volunteer"
-      },
-      {
-          "sn": 0,
-          "link": "http://www.omegasoftindia.com",
-          "workPosition": "Software Development Engineer Intern",
-          "periodStart": "Nov'19",
-          "periodEnd": "May'19",
-          "organisation": "OmegaSoft Technologies",
-          "experience": [{
-                  "team": "Java Development Team",
-                  "periodStart": "Nov'19",
-                  "periodEnd": "May'20",
-                  "details": [
-                      "Configured & deployed Proxy & VPN servers. Developed & distributed Chrome & Firefox proxy browser extensions.",
-                      "Developed & deployed multi-threaded, UDP sockets based DNS server using C++."
-                  ]
-              }
-          ],
-          "type": "work",
-          "status": "Fulltime",
-          "location": "remote / Nagpur, India"
-      },
-      {
-          "sn": -1,
-          "link": "https://www.rootkings.dev/",
-          "workPosition": "Software Development Engineer Intern",
-          "periodStart": "June'20",
-          "periodEnd": "Feb'20",
-          "organisation": "Rootkings.dev",
-          "experience": [{
-              "team": "Core Development",
-              "periodStart": "June'20",
-              "periodEnd": "Feb'21",
-              "details": [
-                  "Developed static Webpages for clients.",
-                  "Reviwed Product Requirement documents and created Software System Design documents.",
-                  "Planned & Executed End-to-End feature development following Agile Sprint Methodology.",
-                  "Responsibilities included Designing, Developing & Optimizing Backup & Recovery solutions.",
-                  "Debugging & Resolving Customer Escalations by actively getting on Customer calls."
-              ]
-          }],
-          "type": "work",
-          "status": "Fulltime",
-          "location": "Remote / Nagpur, India"
-      },
-      {
-          "sn": -2,
-          "link": "https://www.accenture.com",
-          "workPosition": "Application Development Associate",
-          "periodStart": "Feb'21",
-          "periodEnd": "Present",
-          "organisation": "Accenture solutions Pvt Ltd",
-          "experience": [{
-              "team": "Siebel HMD Dev",
-              "periodStart": "feb'21",
-              "periodEnd": "Present",
-              "details": [
-                "congifured journeies on siebel CRM",
-                  "Worked on OpenUI development for Front-end customization.",
-                  "Implemented customised logic in application, applet, business components, business service, views, screen, workflow and IO.",
-                  "Developed Siebel API using WorkFlow and Business Servive.",
-                  "Developing various user stories and submitting the technical design and Unit test evidences."
-              ]
-          }],
-          "type": "work",
-          "status": "Fulltime",
-          "location": "pune, india"
-      },
-      {
-          "sn": -3,
-          "link": "https://www.accenture.com",
-          "workPosition": "Application Development Analyst",
-          "periodStart": "March'23",
-          "periodEnd": "Present",
-          "organisation": "Accenture solutions Pvt Ltd",
-          "experience": [{
-              "team": "Siebel HMD Dev",
-              "periodStart": "",
-              "periodEnd": "",
-              "details": [
-                "congifured journeies on siebel CRM",
-                  "Development of Siebel Open UI to create new Applications for the Project Working with clients to understand their exact requirements.",
-                  "Working as Software Developer to build new applications & EAI(API) on Siebel.",
-                  "Developing various user stories."
-              ]
-          }],
-          "type": "work",
-          "status": "Fulltime",
-          "location": "pune, india"
-      }
-  ],
-  "projects": [{
-          "show": false,
-          "sn": 14,
-          "projectTitle": "Traffic Rules",
-          "periodStart": "Jul'15",
-          "periodEnd": "Nov'15",
-          "toolsUsed": [
-              "Blender",
-              "Movie Maker"
-          ],
-          "tags": [
-              "blender",
-              "animation",
-              "3d-modelling",
-              "traffic rules"
-          ],
-          "info": [
-              "Its a 3D animation video made using Blender Tool for spreading awareness regarding Traffic rules. Mini project for semester III."
-          ],
-          "link": "https://github.com/moghya/Traffic-Rules"
-      },
-      {
-          "show": true,
-          "sn": 13,
-          "projectTitle": "X-Village",
-          "periodStart": "Oct'16",
-          "periodEnd": "Noc'16",
-          "toolsUsed": [
-              "Android Studio"
-          ],
-          "tags": [
-              "Android",
-              "App"
-          ],
-          "info": [
-              "Its an Android based application which provide an basic information about village and for emergency doctor private contact numbers, tourist places near by.",
-              "Mini project android project."
-          ],
-          "link": ""
-      },
-      {
-          "show": true,
-          "sn": 12,
-          "projectTitle": " Secure Online Examination",
-          "periodStart": "Sept'19",
-          "periodEnd": "Oct'19",
-          "toolsUsed": [
-              "Eclips"
-          ],
-          "tags": [
-              "J2EE"
-          ],
-          "info": [
-              "multiple-choice questions and takes input from Candidates as answer and evaluates all questions and gives back output as result.",
-              "conducting lab exams online."
-          ],
-          "link": ""
-      },
-      {
-          "show": true,
-          "sn": 11,
-          "projectTitle": "yashkurzekar.github.io",
-          "periodStart": "May'20",
-          "periodEnd": "July'20",
-          "toolsUsed": [
-              "HTML",
-              "js",
-              "CSS",
-              "JSON",
-              "Visual Studio Code"
-          ],
-          "tags": [
-              "HTML",
-              "js",
-              "CSS",
-              "JSON"
-          ],
-          "info": [
-              "terminal style portfolio website"
-          ],
-          "link": "https://github.com/yashkurzekar/yashkurzekar.github.io"
-      },
-      {
-          "show": true,
-          "sn": 9,
-          "projectTitle": "Egg Timer- iOS Application",
-          "periodStart": "Aug'20",
-          "periodEnd": "Aug'20",
-          "toolsUsed": [
-              "iOS",
-              "swift",
-              "Swift-UI"
-          ],
-          "tags": [
-              "iOS",
-              "swift",
-              "Swift-UI"
-          ],
-          "info": [
-              "Egg timer app to boil your eggs to perfection depending on how you prefer your eggs."
-          ],
-          "link": ""
-      },
-      {
-          "show": true,
-          "sn": 2,
-          "projectTitle": "Recurssion Tree Visulizer",
-          "periodStart": "Jan'21",
-          "periodEnd": "Present",
-          "toolsUsed": [
-              "React",
-              "HTML",
-              "TypeScript",
-              "Styled Components"
-          ],
-          "tags": [
-              "React",
-              "JavaScript",
-              "TypeScript"
-          ],
-          "info": [
-              "working on new requirements and defects.",
-              "developing siebel OpenUI applications."
-          ],
-          "link": ""
-      },
-      {
-          "show": true,
-          "sn": 1,
-          "projectTitle": "Buzzn",
-          "periodStart": "Jan'22",
-          "periodEnd": "Present",
-          "toolsUsed": [
-              "JavaScript",
-              "Vue.js",
-              "WebApp",
-              "MongoDB"
-          ],
-          "tags": [
-              "Social Media",
-              "Trade",
-              "Vue.js"
-          ],
-          "info": [
-              "Trade with your friends, share what you're up to, or check what's fresh from celebrities around the world. Welcome to Buzzn - the modern social networking."
-          ],
-          "link": "https://www.keepbuzzn.com/"
-      },
-      {
-          "show": true,
-          "sn": 3,
-          "projectTitle": "DumDum",
-          "periodStart": "Jan'20",
-          "periodEnd": "Jun'20",
-          "toolsUsed": [
-              "Android Studio",
-              "Java",
-              "Visual Studio Code"
-          ],
-          "tags": [
-              "Android",
-              "Self Motivation"
-          ],
-          "info": [
-              "An app makes you smile, and picks you up and dusts you off."
-          ],
-          "link": "https://play.google.com/store/apps/details?id=com.rootkings.dumdum"
-      },
-      {
-          "show": false,
-          "sn": 7,
-          "projectTitle": "FollowScreen",
-          "periodStart": "Jul'16",
-          "periodEnd": "Jul'16",
-          "toolsUsed": [
-              "python",
-              "pyautogui",
-              "tkinter"
-          ],
-          "tags": [
-              "screen-recording",
-              "python",
-              "autmation"
-          ],
-          "info": [
-              "Screen recorder developed using Python modules PyAutoGUI, PIL and TKinter."
-          ],
-          "link": "https://github.com/moghya/followscreen"
-      },
-      {
-          "show": false,
-          "sn": 8,
-          "projectTitle": "Digital Library Portal",
-          "periodStart": "Feb'17",
-          "periodEnd": "May'17",
-          "toolsUsed": [
-              "QuilJs",
-              "php",
-              "mysql",
-              "JavaScript"
-          ],
-          "tags": [
-              "webapp",
-              "php",
-              "mysql",
-              "js",
-              "materialize"
-          ],
-          "info": [
-              "Developed a Digital Library Portal for College Library as PHP, MySQL web application.",
-              "All of the sections are dynamic & everything is editable using Admin Panel.",
-              "Used Quill-Js for implementing Editor for Admin.."
-          ],
-          "link": "#"
-      },
-      {
-          "show": false,
-          "sn": 5,
-          "projectTitle": "Book Bank Allotment System",
-          "periodStart": "Jan'17",
-          "periodEnd": "May'17",
-          "toolsUsed": [
-              "php",
-              "mongodb",
-              "js"
-          ],
-          "tags": [
-              "mongodb",
-              "nosql",
-              "php"
-          ],
-          "info": [
-              "Developed a Web Application using PHP & MongoDB for Book Bank Allotment done by AGCL library of WCE, Sangli.",
-              "Automated manual process of allocation by reducing time taken from almost 15-20 days to a few minutes."
-          ],
-          "link": "#"
-      },
-      {
-          "show": false,
-          "sn": 4,
-          "projectTitle": "Detection & Prevention of Black hole Attack in MANET",
-          "periodStart": "Jul'16",
-          "periodEnd": "Nov'16",
-          "toolsUsed": [
-              "c++",
-              "ns2",
-              "tcl",
-              "awk"
-          ],
-          "tags": [
-              "c++",
-              "blackhole-attack",
-              "ns2"
-          ],
-          "info": [
-              "Made changes in AODV protocol to simulate Black hole attack in Mobile & Adhoc Network using NS2​",
-              "Implemented techniques for prevention of the Attack."
-          ],
-          "link": "#"
-      },
-      {
-          "show": false,
-          "sn": 10,
-          "projectTitle": "JNV Washim Alumni Portal",
-          "periodStart": "Dec'15",
-          "periodEnd": "Jan'16",
-          "toolsUsed": [
-              "php",
-              "mysql",
-              "js"
-          ],
-          "tags": [
-              "webapp",
-              "php",
-              "mysql",
-              "js"
-          ],
-          "info": [
-              "Developed a Web Application for Alumni Portal of Jawahar Navodaya Vidyalaya,Washim.",
-              "It was developed using PHP, HTML, CSS, JavaScript, Bootstrap. All out of scratch. We used MySQL database.",
-              "Alumni of JNV Washim have to register here with there details & we can search for Alumnus with filters."
-          ],
-          "link": "#"
-      },
-      {
-          "show": false,
-          "sn": 6,
-          "projectTitle": "toGithub",
-          "periodStart": "May'17",
-          "periodEnd": "Present",
-          "toolsUsed": [
-              "python",
-              "PyGithub",
-              "requests",
-              "beautifulsoup"
-          ],
-          "tags": [
-              "scraping",
-              "git-api"
-          ],
-          "info": [
-              "Python utility developed for scraping solutions from Sport Programming Websites & uploding them to Github."
-          ],
-          "link": "https://github.com/moghya/toGithub"
-      },
-      {
-          "show": false,
-          "sn": -1,
-          "projectTitle": "Cheat Bot using Deep Learning",
-          "periodStart": "Jun'18",
-          "periodEnd": "Jun'18",
-          "toolsUsed": [
-              "python",
-              "numpy",
-              "PIL",
-              "requests",
-              "tf"
-          ],
-          "tags": [],
-          "info": [
-              "Reverse engineered an android game involving betting over solving math equations.",
-              "Trained a CNN model with 98.79% accuracy to solve the equations"
-          ],
-          "link": "https://medium.com/howcatcancode/how-i-hacked-747-game-7ecffdc74718"
-      },
-      {
-          "show": false,
-          "sn": -2,
-          "projectTitle": "In Memory key-value Store",
-          "periodStart": "Jun'21",
-          "periodEnd": "Present",
-          "toolsUsed": [
-              "c++",
-              "cmake"
-          ],
-          "tags": [],
-          "info": [
-              "Developed a Multithread key-value store application using C++, Network Socket Programing.",
-              "Working to make it a gRPC based distributed key-value store."
-          ],
-          "link": "https://github.com/moghya/key-value-store"
-      }
-  ],
-  "summary": "<p>Hello,</p><p>Yash is a Computer Science professional. He's interested in Algorithms, Distributed Systems, System Software, Web Applications & Machine Learning. He graduated with B. Tech  in Information Technology. Yash has 3+ years of full-time experience as Software Design & Development Engineer. </p><p>Yash is Passionate about Programming & delivering Well-Designed, Correct, Clean, Test-Covered & Scalable software solutions. He Seeks to Learn & Tries to all in a way that Makes Life Easier. </p><p>He's currently working at Accenture as Application Development Associate. At Accenture, he's developing CRM Business journies using Siebel(Js Logic) and OpenUI. Before that he was at RootKings, At Rootkings, he was developing Full-stack web application using Modern Vue.js. </p>",
-  "profileLinks": [{
-      "name": "Facebook",
-      "icon": "facebook.svg",
-      "link": "https://www.facebook.com/yash.kurzekar.3/",
-      "sn": 2
+  "experince": [
+    {
+      "sn": 6,
+      "link": "",
+      "workPosition": "Scout Troop Leader",
+      "periodStart": "April'10",
+      "periodEnd": "May'12",
+      "organisation": "JNV,Washim",
+      "experience": "It was nice to be a part of Scouting.Arranged camps,hikes & awareness rallies.",
+      "type": "volunteer"
     },
+    {
+      "sn": 5,
+      "link": "http://wcepace.in/",
+      "workPosition": "Asst. Program Director in Events",
+      "periodStart": "Apr'15",
+      "periodEnd": "Mar'16",
+      "organisation": "Personality Advancement Circle of Engineers.",
+      "experience": "Learnt how to organize professional events & actvites, how to manage resources & make most out of everything.",
+      "type": "volunteer"
+    },
+    {
+      "sn": 4,
+      "link": "http://wcepace.in/",
+      "workPosition": "Joint. Skills Developer",
+      "periodStart": "Apr'16",
+      "periodEnd": "Jan'17",
+      "organisation": "Personality Advancement Circle of Engineers.",
+      "experience": "Good to arrange Meet ups for professional skill development of fellow PACErs.",
+      "type": "volunteer"
+    },
+    {
+      "sn": 3,
+      "link": "http://wcepace.in/",
+      "workPosition": "Cheif. Skills Developer",
+      "periodStart": "Jan'17",
+      "periodEnd": "Dec'17",
+      "organisation": "Personality Advancement Circle of Engineers.",
+      "experience": [
+        "Good to arrange Meet ups for professional skill development of fellow PACErs."
+      ],
+      "type": "volunteer"
+    },
+    {
+      "sn": 2,
+      "link": "http://pitchteq.com/",
+      "workPosition": "PHP Developer",
+      "periodStart": "Jul'16",
+      "periodEnd": "Jul'18",
+      "organisation": "PitchTeQ ",
+      "experience": [
+        "A group of college students established a web solutions startup. Worked on an e-commerce project."
+      ],
+      "type": "volunteer"
+    },
+    {
+      "sn": 1,
+      "link": "http://www.praxisinfotech.com/",
+      "workPosition": "Web Development Intern",
+      "periodStart": "Jun'17",
+      "periodEnd": "Jul'17",
+      "organisation": "Praxis Infotech ",
+      "experience": [
+        "Developed a PHP, MySQL web application. Added a layer on top of Google maps for places & events."
+      ],
+      "type": "volunteer"
+    },
+    {
+      "sn": 0,
+      "link": "http://www.omegasoftindia.com",
+      "workPosition": "Software Development Engineer Intern",
+      "periodStart": "Nov'19",
+      "periodEnd": "May'19",
+      "organisation": "OmegaSoft Technologies",
+      "experience": [
+        {
+          "team": "Java Development Team",
+          "periodStart": "Nov'19",
+          "periodEnd": "May'20",
+          "details": [
+            "Configured & deployed Proxy & VPN servers. Developed & distributed Chrome & Firefox proxy browser extensions.",
+            "Developed & deployed multi-threaded, UDP sockets based DNS server using C++."
+          ]
+        }
+      ],
+      "type": "work",
+      "status": "Fulltime",
+      "location": "remote / Nagpur, India"
+    },
+    {
+      "sn": -1,
+      "link": "https://www.rootkings.dev/",
+      "workPosition": "Software Development Engineer Intern",
+      "periodStart": "June'20",
+      "periodEnd": "Feb'20",
+      "organisation": "Rootkings.dev",
+      "experience": [
+        {
+          "team": "Core Development",
+          "periodStart": "June'20",
+          "periodEnd": "Feb'21",
+          "details": [
+            "Developed static Webpages for clients.",
+            "Reviwed Product Requirement documents and created Software System Design documents.",
+            "Planned & Executed End-to-End feature development following Agile Sprint Methodology.",
+            "Responsibilities included Designing, Developing & Optimizing Backup & Recovery solutions.",
+            "Debugging & Resolving Customer Escalations by actively getting on Customer calls."
+          ]
+        }
+      ],
+      "type": "work",
+      "status": "Fulltime",
+      "location": "Remote / Nagpur, India"
+    },
+    {
+      "sn": -2,
+      "link": "https://www.accenture.com",
+      "workPosition": "Application Development Associate",
+      "periodStart": "Feb'21",
+      "periodEnd": "Present",
+      "organisation": "Accenture solutions Pvt Ltd",
+      "experience": [
+        {
+          "team": "Siebel HMD Dev",
+          "periodStart": "feb'21",
+          "periodEnd": "Present",
+          "details": [
+            "congifured journeies on siebel CRM",
+            "Worked on OpenUI development for Front-end customization.",
+            "Implemented customised logic in application, applet, business components, business service, views, screen, workflow and IO.",
+            "Developed Siebel API using WorkFlow and Business Servive.",
+            "Developing various user stories and submitting the technical design and Unit test evidences."
+          ]
+        }
+      ],
+      "type": "work",
+      "status": "Fulltime",
+      "location": "pune, india"
+    },
+    {
+      "sn": -3,
+      "link": "https://www.accenture.com",
+      "workPosition": "Packaged App Development Analyst",
+      "periodStart": "March'23",
+      "periodEnd": "Present",
+      "organisation": "Accenture solutions Pvt Ltd",
+      "experience": [
+        {
+          "team": "Siebel HMD Dev",
+          "periodStart": "",
+          "periodEnd": "",
+          "details": [
+            "congifured journeies on siebel CRM",
+            "Development of Siebel Open UI to create new Applications for the Project Working with clients to understand their exact requirements.",
+            "Working as Software Developer to build new applications & EAI(API) on Siebel.",
+            "Developing various user stories."
+          ]
+        }
+      ],
+      "type": "work",
+      "status": "Fulltime",
+      "location": "pune, india"
+    }
+  ],
+  "projects": [
+    {
+      "show": false,
+      "sn": 14,
+      "projectTitle": "Traffic Rules",
+      "periodStart": "Jul'15",
+      "periodEnd": "Nov'15",
+      "toolsUsed": ["Blender", "Movie Maker"],
+      "tags": ["blender", "animation", "3d-modelling", "traffic rules"],
+      "info": [
+        "Its a 3D animation video made using Blender Tool for spreading awareness regarding Traffic rules. Mini project for semester III."
+      ],
+      "link": "https://github.com/moghya/Traffic-Rules"
+    },
+    {
+      "show": true,
+      "sn": 13,
+      "projectTitle": "X-Village",
+      "periodStart": "Oct'16",
+      "periodEnd": "Noc'16",
+      "toolsUsed": ["Android Studio"],
+      "tags": ["Android", "App"],
+      "info": [
+        "Its an Android based application which provide an basic information about village and for emergency doctor private contact numbers, tourist places near by.",
+        "Mini project android project."
+      ],
+      "link": ""
+    },
+    {
+      "show": true,
+      "sn": 12,
+      "projectTitle": " Secure Online Examination",
+      "periodStart": "Sept'19",
+      "periodEnd": "Oct'19",
+      "toolsUsed": ["Eclips"],
+      "tags": ["J2EE"],
+      "info": [
+        "multiple-choice questions and takes input from Candidates as answer and evaluates all questions and gives back output as result.",
+        "conducting lab exams online."
+      ],
+      "link": ""
+    },
+    {
+      "show": true,
+      "sn": 11,
+      "projectTitle": "yashkurzekar.github.io",
+      "periodStart": "May'20",
+      "periodEnd": "July'20",
+      "toolsUsed": ["HTML", "js", "CSS", "JSON", "Visual Studio Code"],
+      "tags": ["HTML", "js", "CSS", "JSON"],
+      "info": ["terminal style portfolio website"],
+      "link": "https://github.com/yashkurzekar/yashkurzekar.github.io"
+    },
+    {
+      "show": true,
+      "sn": 9,
+      "projectTitle": "Egg Timer- iOS Application",
+      "periodStart": "Aug'20",
+      "periodEnd": "Aug'20",
+      "toolsUsed": ["iOS", "swift", "Swift-UI"],
+      "tags": ["iOS", "swift", "Swift-UI"],
+      "info": [
+        "Egg timer app to boil your eggs to perfection depending on how you prefer your eggs."
+      ],
+      "link": ""
+    },
+    {
+      "show": true,
+      "sn": 2,
+      "projectTitle": "Recurssion Tree Visulizer",
+      "periodStart": "Jan'21",
+      "periodEnd": "Present",
+      "toolsUsed": ["React", "HTML", "TypeScript", "Styled Components"],
+      "tags": ["React", "JavaScript", "TypeScript"],
+      "info": [
+        "working on new requirements and defects.",
+        "developing siebel OpenUI applications."
+      ],
+      "link": ""
+    },
+    {
+      "show": true,
+      "sn": 1,
+      "projectTitle": "Buzzn",
+      "periodStart": "Jan'22",
+      "periodEnd": "Present",
+      "toolsUsed": ["JavaScript", "Vue.js", "WebApp", "MongoDB"],
+      "tags": ["Social Media", "Trade", "Vue.js"],
+      "info": [
+        "Trade with your friends, share what you're up to, or check what's fresh from celebrities around the world. Welcome to Buzzn - the modern social networking."
+      ],
+      "link": "https://www.keepbuzzn.com/"
+    },
+    {
+      "show": true,
+      "sn": 3,
+      "projectTitle": "DumDum",
+      "periodStart": "Jan'20",
+      "periodEnd": "Jun'20",
+      "toolsUsed": ["Android Studio", "Java", "Visual Studio Code"],
+      "tags": ["Android", "Self Motivation"],
+      "info": ["An app makes you smile, and picks you up and dusts you off."],
+      "link": "https://play.google.com/store/apps/details?id=com.rootkings.dumdum"
+    },
+    {
+      "show": false,
+      "sn": 7,
+      "projectTitle": "FollowScreen",
+      "periodStart": "Jul'16",
+      "periodEnd": "Jul'16",
+      "toolsUsed": ["python", "pyautogui", "tkinter"],
+      "tags": ["screen-recording", "python", "autmation"],
+      "info": [
+        "Screen recorder developed using Python modules PyAutoGUI, PIL and TKinter."
+      ],
+      "link": "https://github.com/moghya/followscreen"
+    },
+    {
+      "show": false,
+      "sn": 8,
+      "projectTitle": "Digital Library Portal",
+      "periodStart": "Feb'17",
+      "periodEnd": "May'17",
+      "toolsUsed": ["QuilJs", "php", "mysql", "JavaScript"],
+      "tags": ["webapp", "php", "mysql", "js", "materialize"],
+      "info": [
+        "Developed a Digital Library Portal for College Library as PHP, MySQL web application.",
+        "All of the sections are dynamic & everything is editable using Admin Panel.",
+        "Used Quill-Js for implementing Editor for Admin.."
+      ],
+      "link": "#"
+    },
+    {
+      "show": false,
+      "sn": 5,
+      "projectTitle": "Book Bank Allotment System",
+      "periodStart": "Jan'17",
+      "periodEnd": "May'17",
+      "toolsUsed": ["php", "mongodb", "js"],
+      "tags": ["mongodb", "nosql", "php"],
+      "info": [
+        "Developed a Web Application using PHP & MongoDB for Book Bank Allotment done by AGCL library of WCE, Sangli.",
+        "Automated manual process of allocation by reducing time taken from almost 15-20 days to a few minutes."
+      ],
+      "link": "#"
+    },
+    {
+      "show": false,
+      "sn": 4,
+      "projectTitle": "Detection & Prevention of Black hole Attack in MANET",
+      "periodStart": "Jul'16",
+      "periodEnd": "Nov'16",
+      "toolsUsed": ["c++", "ns2", "tcl", "awk"],
+      "tags": ["c++", "blackhole-attack", "ns2"],
+      "info": [
+        "Made changes in AODV protocol to simulate Black hole attack in Mobile & Adhoc Network using NS2​",
+        "Implemented techniques for prevention of the Attack."
+      ],
+      "link": "#"
+    },
+    {
+      "show": false,
+      "sn": 10,
+      "projectTitle": "JNV Washim Alumni Portal",
+      "periodStart": "Dec'15",
+      "periodEnd": "Jan'16",
+      "toolsUsed": ["php", "mysql", "js"],
+      "tags": ["webapp", "php", "mysql", "js"],
+      "info": [
+        "Developed a Web Application for Alumni Portal of Jawahar Navodaya Vidyalaya,Washim.",
+        "It was developed using PHP, HTML, CSS, JavaScript, Bootstrap. All out of scratch. We used MySQL database.",
+        "Alumni of JNV Washim have to register here with there details & we can search for Alumnus with filters."
+      ],
+      "link": "#"
+    },
+    {
+      "show": false,
+      "sn": 6,
+      "projectTitle": "toGithub",
+      "periodStart": "May'17",
+      "periodEnd": "Present",
+      "toolsUsed": ["python", "PyGithub", "requests", "beautifulsoup"],
+      "tags": ["scraping", "git-api"],
+      "info": [
+        "Python utility developed for scraping solutions from Sport Programming Websites & uploding them to Github."
+      ],
+      "link": "https://github.com/moghya/toGithub"
+    },
+    {
+      "show": false,
+      "sn": -1,
+      "projectTitle": "Cheat Bot using Deep Learning",
+      "periodStart": "Jun'18",
+      "periodEnd": "Jun'18",
+      "toolsUsed": ["python", "numpy", "PIL", "requests", "tf"],
+      "tags": [],
+      "info": [
+        "Reverse engineered an android game involving betting over solving math equations.",
+        "Trained a CNN model with 98.79% accuracy to solve the equations"
+      ],
+      "link": "https://medium.com/howcatcancode/how-i-hacked-747-game-7ecffdc74718"
+    },
+    {
+      "show": false,
+      "sn": -2,
+      "projectTitle": "In Memory key-value Store",
+      "periodStart": "Jun'21",
+      "periodEnd": "Present",
+      "toolsUsed": ["c++", "cmake"],
+      "tags": [],
+      "info": [
+        "Developed a Multithread key-value store application using C++, Network Socket Programing.",
+        "Working to make it a gRPC based distributed key-value store."
+      ],
+      "link": "https://github.com/moghya/key-value-store"
+    }
+  ],
+  "summary": "<p>Hello,</p><p>Yash is a Computer Science professional. He's interested in Algorithms, Distributed Systems, System Software, Web Applications & Machine Learning. He graduated with B. Tech  in Information Technology. Yash has 3+ years of full-time experience as Software Design & Development Engineer. </p><p>Yash is Passionate about Programming & delivering Well-Designed, Correct, Clean, Test-Covered & Scalable software solutions. He Seeks to Learn & Tries to all in a way that Makes Life Easier. </p><p>He's currently working at Accenture as Packaged App Development Analyst. At Accenture, he's developing CRM Business journies using Siebel(Js Logic) and OpenUI. Before that he was at RootKings, At Rootkings, he was developing Full-stack web application using Modern Vue.js. </p>",
+  "profileLinks": [
     {
       "name": "LinkedIn",
       "icon": "linkedin.svg",
@@ -812,63 +690,64 @@
       "sn": 4
     }
   ],
-  "likes": [{
-          "name": "Programming",
-          "icon": "programming.svg",
-          "sn": 1
-      },
-      {
-          "name": "Maths",
-          "icon": "maths.svg",
-          "sn": 2
-      },
-      {
-          "name": "Armed Forces",
-          "icon": "soldier.svg",
-          "sn": 3
-      },
-      {
-          "name": "Reading",
-          "icon": "book.svg",
-          "sn": 4
-      },
-      {
-          "name": "Singing",
-          "icon": "singer.svg",
-          "sn": 5
-      },
-      {
-          "name": "Watermelon",
-          "icon": "watermelon.svg",
-          "sn": 6
-      },
-      {
-          "name": "Chicken",
-          "icon": "chicken.svg",
-          "sn": 7
-      },
-      {
-          "name": "Cycling",
-          "icon": "cycling.svg",
-          "sn": 8
-      },
-      {
-          "name": "Trekking",
-          "icon": "trek.svg",
-          "sn": 9
-      },
-      {
-          "name": "Camping",
-          "icon": "tent.svg",
-          "sn": 10
-      }
+  "likes": [
+    {
+      "name": "Programming",
+      "icon": "programming.svg",
+      "sn": 1
+    },
+    {
+      "name": "Maths",
+      "icon": "maths.svg",
+      "sn": 2
+    },
+    {
+      "name": "Armed Forces",
+      "icon": "soldier.svg",
+      "sn": 3
+    },
+    {
+      "name": "Reading",
+      "icon": "book.svg",
+      "sn": 4
+    },
+    {
+      "name": "Singing",
+      "icon": "singer.svg",
+      "sn": 5
+    },
+    {
+      "name": "Watermelon",
+      "icon": "watermelon.svg",
+      "sn": 6
+    },
+    {
+      "name": "Chicken",
+      "icon": "chicken.svg",
+      "sn": 7
+    },
+    {
+      "name": "Cycling",
+      "icon": "cycling.svg",
+      "sn": 8
+    },
+    {
+      "name": "Trekking",
+      "icon": "trek.svg",
+      "sn": 9
+    },
+    {
+      "name": "Camping",
+      "icon": "tent.svg",
+      "sn": 10
+    }
   ],
   "qoutes": [
-      "Your death is something that happens to everyone else.",
-      "You only live as long as the last person who remembers you.",
-      "Every day every hour turn the pain into power.",
-      "If you cannot be a pencil to write someone's happiness, then try to be an erases to erase someone's sorrows.",
-      "Tabs are better than spaces."
+    "Your death is something that happens to everyone else.",
+    "You only live as long as the last person who remembers you.",
+    "Every day every hour turn the pain into power.",
+    "If you cannot be a pencil to write someone's happiness, then try to be an erases to erase someone's sorrows.",
+    "Tabs are better than spaces."
   ],
   "helloText": "<p>Dear Visitor, Thank you for visiting my webspace.</p>\n<p>I'm working as Member of Technical Staff at <a href='https://accenture.com'>Accenture</a></p>\n<p>Before this I used work as Software Development Engineer intern at <a href='http://rootkings.dev'>RootKings.dev</a>. I completed  B.Tech Information Technology at <a href='https://ghrce.raisoni.net'>G.H. Raisoni College of Engineering Nagpur</a> & my schooling from Jantavidhyalaya, Nagbhir</a>.</p>\n\n<p>I'm interested in Algorithms, System Programming, Distributed Systems & Machine Learning. I overwhelmingly like C++, Python & Javascript :)</p>\n\n<p>How can I help you?</br>I can design, develop & deliver technological solutions to your problems.</p><p>Do we have something in common? If yes, let's have a talk about it & grow together.</p> <p> We don't have anything in common?</br>That's fine,please introduce me something that I'm missing.</p>"
 }
